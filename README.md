@@ -6,11 +6,23 @@ List of cool bootcamp programs in Indonesia
 
 ### Cloud and DevOps
 
-- [Kelas Bootcamp Adinusa](https://www.instagram.com/adinusa.id/)
+- [Kelas Bootcamp Adinusa](https://www.instagram.com/adinusa.id/) 📄
+- [Sekolah Devops Cilsy](https://sekolahdevops.com/) 💰💰💰💰
 
 ## Developer
 
-- [Ruangguru Engineering Academy](https://rea.ruangguru.com/)
+- [Ruangguru Engineering Academy](https://rea.ruangguru.com/) 📄
+- [Binar Academy](https://www.binaracademy.com/) 💰💰
+- [Hacktiv8](https://www.hacktiv8.com/) 💰💰💰
+
+## UI/UX
+
+- [Binar Academy](https://www.binaracademy.com/) 💰💰
+
+## Product
+
+- [Binar Academy](https://www.binaracademy.com/) 💰💰
+- [RevoU](https://revou.co/) 💰💰💰
 
 ## LICENSE
 
