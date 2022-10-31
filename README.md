@@ -4,22 +4,29 @@ List of cool bootcamp programs in Indonesia
 
 ## List
 
+### Goverment Program
+
+- [Digitalent by Kominfo](https://digitalent.kominfo.go.id/) 📄 (Quarterly)
+- [Baparekraf Developer Day by Kemenparekraf](https://bdd.kemenparekraf.go.id/) 📄 (Yearly)
+
 ### Cloud and DevOps
 
-- [Kelas Bootcamp Adinusa](https://www.instagram.com/adinusa.id/) 📄
-- [Sekolah Devops Cilsy](https://sekolahdevops.com/) 💰💰💰💰
+- [Kelas Bootcamp Adinusa](https://www.instagram.com/adinusa.id/) 📄 (Quarterly)
+- [Sekolah Devops Cilsy](https://sekolahdevops.com/) 💰💰💰💰 (Quarterly)
+- [Seminar] [Kubernetes Community Days](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/) 💰 (Yearly)
+- [Seminar] [Cloud Native Indonesia](https://www.youtube.com/c/CloudNativeIndonesia) (Monthly)
 
-## Developer
+### Developer
 
-- [Ruangguru Engineering Academy](https://rea.ruangguru.com/) 📄
+- [Ruangguru Engineering Academy](https://rea.ruangguru.com/) 📄 (Yearly)
+- [Binar Academy](https://www.binaracademy.com/) 💰💰 (Monthly)
+- [Hacktiv8](https://www.hacktiv8.com/) 💰💰💰 (Monthly)
+
+### UI/UX
+
 - [Binar Academy](https://www.binaracademy.com/) 💰💰
-- [Hacktiv8](https://www.hacktiv8.com/) 💰💰💰
 
-## UI/UX
-
-- [Binar Academy](https://www.binaracademy.com/) 💰💰
-
-## Product
+### Product
 
 - [Binar Academy](https://www.binaracademy.com/) 💰💰
 - [RevoU](https://revou.co/) 💰💰💰
