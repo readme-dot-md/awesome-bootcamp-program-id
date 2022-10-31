@@ -11,7 +11,7 @@ List of cool bootcamp programs in Indonesia
 
 ### Kampus Merdeka
 
-- [Bankit by Google](https://grow.google/intl/id_id/bangkit/)
+- [Bangkit by Google](https://grow.google/intl/id_id/bangkit/)
 
 ### Cloud and DevOps
 
