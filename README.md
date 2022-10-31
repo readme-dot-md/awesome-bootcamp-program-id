@@ -9,6 +9,10 @@ List of cool bootcamp programs in Indonesia
 - [Digitalent by Kominfo](https://digitalent.kominfo.go.id/) 📄 (Quarterly)
 - [Baparekraf Developer Day by Kemenparekraf](https://bdd.kemenparekraf.go.id/) 📄 (Yearly)
 
+### Kampus Merdeka
+
+- [Bangkit by Google](https://grow.google/intl/id_id/bangkit/)
+
 ### Cloud and DevOps
 
 - [Kelas Bootcamp Adinusa](https://www.instagram.com/adinusa.id/) 📄 (Quarterly)
